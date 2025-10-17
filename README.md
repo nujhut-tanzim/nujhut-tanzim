@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Nujhut Tanzim
+Junior Laravel Developer passionate about building clean, efficient web applications. Skilled in PHP, Laravel, JavaScript, AJAX, and Blade, with hands-on experience in backend development and RESTful APIs. Always learning, always coding.
 
-<!--
-**nujhut-tanzim/nujhut-tanzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: PHP / Laravel / JS / HTML / CSS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nujhut-tanzim)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nujhut-tanzim)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nujhut-tanzim&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nujhut-tanzim/contributions?format=svg&private=false)  
+
