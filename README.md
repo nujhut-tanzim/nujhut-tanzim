@@ -13,3 +13,5 @@ Skills: PHP / Laravel / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/nujhut-tanzim/contributions?format=svg&private=false)  
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=nujhut-tanzim)  
+
