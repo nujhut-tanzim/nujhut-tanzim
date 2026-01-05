@@ -8,7 +8,7 @@ const README_PATH = path.join(__dirname, '..', 'README.md');
 const PREVIEW_PATH = path.join(__dirname, '..', 'preview.svg');
 const START_MARKER = '<!-- GITHUB-STATS:START -->';
 const END_MARKER = '<!-- GITHUB-STATS:END -->';
-const LOGIN = 'nujhut-tanzim';
+const LOGIN = 'Nujhut-Tanzim';
 
 async function main() {
   const token = process.env.GITHUB_TOKEN;
