@@ -24,7 +24,7 @@ jobs:
 
       - name: Update README with GitHub stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: node scripts/update-stats.js
 
       - name: Commit and push changes
