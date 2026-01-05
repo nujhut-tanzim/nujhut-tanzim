@@ -5,6 +5,12 @@ Skills: PHP / Laravel / JS / HTML / CSS
 
 
 
+<!-- GITHUB-STATS:START -->
+<p align="center">
+  <img src="preview.svg" alt="GitHub stats preview" />
+</p>
+<!-- GITHUB-STATS:END -->
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nujhut-tanzim)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nujhut-tanzim)](https://github.com/anuraghazra/github-readme-stats)
